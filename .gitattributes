@@ -1,0 +1,6 @@
+Plugins/** filter=lfs diff=lfs merge=lfs -text
+*.cpp      filter= diff= merge= text
+*.h  filter= diff= merge= text
+*.hpp  filter= diff= merge= text
+*.inl  filter= diff= merge= text
+*.cs  filter= diff= merge= text
