@@ -1,3 +1,4 @@
 [submodule "Plugins/AirSim"]
 	path = Plugins/AirSim
 	url = https://github.com/Ravgni/AirSim.git
+	branch = main
